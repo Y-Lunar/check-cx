@@ -735,24 +735,14 @@ export function DashboardView({ initialData }: DashboardViewProps) {
               <Activity className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
             </div>
             <span className="text-xs font-bold uppercase tracking-widest text-muted-foreground sm:text-sm">
-              System Status
+              OMNICODE Monitor
             </span>
-            <div className="h-3 w-[1px] bg-border/60 sm:h-4" />
-            <Link
-              href="https://github.com/BingZi-233/check-cx"
-              target="_blank"
-              className="flex items-center gap-1 text-[10px] font-medium text-muted-foreground transition-colors hover:text-foreground sm:text-xs"
-            >
-              <Github className="h-3 w-3 sm:h-3.5 sm:w-3.5" />
-              <span>GitHub</span>
-            </Link>
             <div className="h-3 w-[1px] bg-border/60 sm:h-4" />
             <ThemeToggle />
           </div>
           
           <h1 className="max-w-2xl text-3xl font-extrabold leading-tight tracking-tight sm:text-5xl md:text-6xl">
-            AI SERVICES <br />
-            <span className="text-muted-foreground">INTELLIGENCE MONITOR</span>
+            OmniCode
           </h1>
           
           <div className="flex max-w-lg flex-col gap-2 text-sm text-muted-foreground sm:text-base">
