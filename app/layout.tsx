@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   title: "OmniCode - 站点检测",
   description: "实时检测 OpenAI / Gemini / Anthropic 对话接口的可用性与延迟",
   icons: {
-    icon: "/favicon.png",
+    icon: "/on.png",
   },
 };
 
